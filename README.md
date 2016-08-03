@@ -13,7 +13,7 @@ Use the Atom package manager and search for "linter-spell-ruby", or run
 ## Prerequisites
 
 This package relies upon [linter-spell](https://atom.io/packages/linter-spell)
-and either [language-ruby](https://atom.io/packages/language-ruby).
+and [language-ruby](https://atom.io/packages/language-ruby).
 
 ## Status
 
