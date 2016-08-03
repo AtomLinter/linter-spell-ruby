@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-ruby",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Ruby spell checking using linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
@@ -24,8 +24,7 @@
   "devDependecies": {
     "semver": "^5.3.0"
   },
-  "package-deps": [
-  ],
+  "package-deps": [],
   "activationHooks": [
     "language-ruby:grammar-used"
   ],
