@@ -1,7 +1,7 @@
 # Change Log
 
-## [0.2.0](https://github.com/yitzchak/linter-spell-ruby/tree/0.2.0) (2016-09-03)
-[Full Changelog](https://github.com/yitzchak/linter-spell-ruby/compare/v0.1.0...0.2.0)
+## [v0.2.0](https://github.com/yitzchak/linter-spell-ruby/tree/v0.2.0) (2016-09-03)
+[Full Changelog](https://github.com/yitzchak/linter-spell-ruby/compare/v0.1.0...v0.2.0)
 
 **Implemented enhancements:**
 
