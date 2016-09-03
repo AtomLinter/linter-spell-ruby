@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.2.0](https://github.com/yitzchak/linter-spell-ruby/tree/0.2.0) (2016-09-03)
+[Full Changelog](https://github.com/yitzchak/linter-spell-ruby/compare/v0.1.0...0.2.0)
+
+**Implemented enhancements:**
+
+- Implement grammar specific dictionary [\#1](https://github.com/yitzchak/linter-spell-ruby/issues/1)
+
 ## [v0.1.0](https://github.com/yitzchak/linter-spell-ruby/tree/v0.1.0) (2016-08-03)
 
 
