@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-ruby",
   "main": "./lib/main",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Ruby spell checking using linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
@@ -9,13 +9,13 @@
     "linter",
     "spell-check"
   ],
-  "repository": "https://github.com/yitzchak/linter-spell-ruby",
+  "repository": "https://github.com/AtomLinter/linter-spell-ruby",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
   },
   "bugs": {
-    "url": "https://github.com/yitzchak/linter-spell-ruby/issues"
+    "url": "https://github.com/AtomLinter/linter-spell-ruby/issues"
   },
   "dependencies": {
     "lodash": "^4.13.0",
